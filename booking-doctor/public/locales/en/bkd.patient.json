@@ -1,0 +1,31 @@
+{
+    "patient": "Patient",
+    "patient_other": "Patients",
+    
+    "id": "ID",
+    "id_long": "Patient ID",
+
+    "username": "Username",
+    "username.extra": "The unique identifier used for user login.",
+
+    "password": "Password",
+    "password.extra": "The secret key used to authenticate the user.",
+
+    "first_name": "First name",
+    "first_name.extra": "The user's given name.",
+
+    "last_name": "Last name",
+    "last_name.extra": "The user's family name or surname.",
+
+    "email": "Email",
+    "email.extra": "The user's email address used for communication and login.",
+
+    "phone": "Phone",
+    "phone.extra": "The user's contact phone number.",
+
+    "established": "Established",
+    "established.extra": "The year the user or organization was established.",
+
+    "address": "Address",
+    "address.extra": "The user's residential or organizational address."
+}

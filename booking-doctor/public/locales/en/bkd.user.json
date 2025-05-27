@@ -1,0 +1,47 @@
+{
+    "user": "User",
+
+    "username": "Username",
+    "username.extra": "The unique identifier used for user login.",
+
+    "password": "Password",
+    "password.extra": "The secret key used to authenticate the user.",
+
+    "first_name": "First name",
+    "first_name.extra": "The user's given name.",
+
+    "last_name": "Last name",
+    "last_name.extra": "The user's family name or surname.",
+
+    "email": "Email",
+    "email.extra": "The user's email address used for communication and login.",
+
+    "profile_picture": "Avatar",
+    "profile_picture.extra": "The user's profile image used for visual identification across the application.",
+
+    "phone": "Phone",
+    "phone.extra": "The user's contact phone number.",
+
+    "established": "Established",
+    "established.extra": "The year the user or organization was established.",
+
+    "address": "Address",
+    "address.extra": "The user's residential or organizational address.",
+
+    "role": "Role",
+    "role.extra": "The user's assigned role in the system for authorization.",
+
+    "role.Doctor": "Doctor",
+    "role.Admin": "Admin",
+    "role.Patient": "Patient",
+    "role.unspecified": "Unspecified role",
+
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "forgot_password": "Forgot password?",
+    "remember_me": "Remember me",
+    "dont_have_account": "Don't have an account?",
+    "have_account": "Have an account?",
+
+    "sign_out": "Sign out"
+}

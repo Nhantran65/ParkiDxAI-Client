@@ -1,0 +1,18 @@
+{
+    "url": "\"{{field_name}}\" must be a valid URL.",
+
+    "mixed.required": "\"{{field_name}}\" is not allowed to be empty.",
+    "mixed.not_one_of": "\"{{field_name}}\" field must not have the same value as the {{values}} fields.",
+    "mixed.one_of": "\"{{field_name}}\" field must have a value that matches one of the following: {{values}}.",
+
+    "string": "\"{{field_name}}\" must be a string.",
+    "string.email": "\"{{field_name}}\" must be a valid email.",
+    "string.min": "\"{{field_name}}\" length must be at least {{min}} characters long.",
+    "string.max": "\"{{field_name}}\" length must be less than or equal to {{max}} characters long.",
+    "string.match": "\"{{field_name}}\" must match the following: \"{{regex}}\".",
+    "string.url": "\"{{field_name}}\" must be a valid URL.",
+
+    "number": "\"{{field_name}}\" must be a number.",
+    "number.min": "\"{{field_name}}\" must be greater than or equal to {{min}}.",
+    "number.max": "\"{{field_name}}\" must be less than or equal to {{max}}."
+}

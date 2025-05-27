@@ -1,0 +1,28 @@
+{
+    "hospital": "Hospital",
+    "hospital_other": "Hospitals",
+
+    "id": "ID",
+    "id_long": "Hospital ID",
+
+    "name": "Name",
+    "name.extra": "The official name of the hospital.",
+
+    "description": "Description",
+    "description.extra": "A brief summary or overview of the hospital's services and specialties.",
+
+    "address": "Address",
+    "address.extra": "The physical location of the hospital.",
+
+    "phone": "Phone",
+    "phone.extra": "The primary contact number for the hospital.",
+
+    "email": "Email",
+    "email.extra": "The official email address used for communication with the hospital.",
+
+    "website": "Website",
+    "website.extra": "The hospital's official website for information and online services.",
+
+    "established": "Established",
+    "established.extra": "The year the hospital was founded or began operation."
+}

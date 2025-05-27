@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "packages": {
+    "booking-doctor-js": {
+      "signature": "306245c593397570cd78379e180dca20",
+      "file": true
+    },
+    "1byte-react-design": {
+      "signature": "c354ad78ca38e8310352cb28ec1dc6a8",
+      "file": true,
+      "replaced": "^1.1.24-7"
+    }
+  }
+}

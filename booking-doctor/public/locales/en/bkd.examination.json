@@ -1,0 +1,103 @@
+{
+    "examination": "Examniation",
+    "examination_other": "Examinations",
+
+    "doctor_id": "Doctor",
+    "doctor_id.extra": "Choose the doctor responsible for your diagnosis.",
+
+    "id": "ID",
+    "id_long": "Examination ID",
+
+    "email": "Email",
+    "email.extra": "Email address to receive diagnostic results",
+
+    "status": "Status",
+    "status_id": "Status ID",
+
+    "age": "Age",
+    "gender": "Gender",
+    "ethnicity": "Ethnicity",
+    "education_level": "Education level",
+    "bmi": "BMI",
+    "smoking": "Smoking",
+
+    "alcohol_consumption": "BM alcohol consumptionI",
+    "alcohol_consumption.extra": "Weekly alcohol consumption in units, ranging from 0 to 20.",
+
+    "physical_activity": "Physical activity",
+    "physical_activity.extra": "Weekly physical activity in hours, ranging from 0 to 10.",
+
+    "diet_quality": "Diet quality",
+    "diet_quality.extra": "Diet quality score, ranging from 0 to 10",
+
+    "sleep_quality": "Sleep quality",
+    "sleep_quality.extra": "Sleep quality score, ranging from 4 to 10.",
+
+    "family_history_parkinsons": "Family history Parkinson's",
+    "family_history_parkinsons.extra": "Family history of Parkinson's Disease.",
+
+    "traumatic_brain_injury": "Traumatic brain injury",
+
+    "hypertension": "Hypertension",
+    "hypertension.extra": "Presence of hypertension",
+
+    "diabetes": "Diabetes",
+    "diabetes.extra": "Presence of diabetes.",
+
+    "depression": "Depression",
+    "depression.extra": "Presence of depression",
+
+    "stroke": "Stroke",
+    "stroke.extra": "History of stroke",
+
+    "systolic_bp": "Systolic BP",
+    "systolic_bp.extra": "Systolic blood pressure, ranging from 90 to 180 mmHg.",
+
+    "diastolic_bp": "Diastolic BP",
+    "diastolic_bp.extra": "Diastolic blood pressure, ranging from 60 to 120 mmHg.",
+
+    "cholesterol_total": "Total cholesterol",
+    "cholesterol_total.extra": "Total cholesterol levels, ranging from 150 to 300 mg/dL.",
+
+    "cholesterol_ldl": "LDL cholesterol",
+    "cholesterol_ldl.extra": "Low-density lipoprotein cholesterol levels, ranging from 50 to 200 mg/dL.",
+
+    "cholesterol_hdl": "HDL cholesterol",
+    "cholesterol_hdl.extra": "Total cholesterol levels, ranging from 150 to 300 mg/dL.",
+
+    "cholesterol_triglycerides": "Triglycerides",
+    "cholesterol_triglycerides.extra": "Triglycerides levels, ranging from 50 to 400 mg/dL.",
+
+    "updrs_score": "UPDRS score",
+    "updrs_score.extra": "Unified Parkinson's Disease Rating Scale score, ranging from 0 to 199. Higher scores indicate greater severity of the disease",
+
+    "moca_score": "MoCA score",
+    "moca_score.extra": "Montreal Cognitive Assessment score, ranging from 0 to 30. Lower scores indicate cognitive impairment.",
+
+    "functional_assessment": "Functional assessment",
+    "functional_assessment.extra": "Functional assessment score, ranging from 0 to 10. Lower scores indicate greater impairment.",
+
+    "tremor": "Tremor",
+    "tremor.extra": "Presence of tremor",
+
+    "rigidity": "Rigidity",
+    "rigidity.extra": "Presence of muscle rigidity",
+
+    "bradykinesia": "Bradykinesia",
+    "bradykinesia.extra": "Presence of bradykinesia (slowness of movement)",
+
+    "postural_instability": "Postural instability",
+    "postural_instability.extra": "Presence of postural instability",
+
+    "speech_problems": "Speech problems",
+    "speech_problems.extra": "Presence of speech problems",
+
+    "sleep_disorders": "Sleep disorders",
+    "sleep_disorders.extra": "Presence of sleep disorders",
+
+    "constipation": "Constipation",
+    "constipation.extra": "Presence of constipation",
+
+    "feature": "Feature",
+    "value": "Value"
+}
